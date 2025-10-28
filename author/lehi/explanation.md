@@ -1,0 +1,1 @@
+I'm not sure if this was Nephi's writing or if Nephi's copied it from the book of Lehi. But Nephi did present it as something his father said so to be safe we'll seperate it.
