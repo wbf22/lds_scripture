@@ -989,17 +989,11 @@ Genesis 30:42	But when the cattle were feeble, he put [them] not in: so the feeb
 Genesis 30:43	And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
 Genesis 31:1	And he heard the words of Laban’s sons, saying, Jacob hath taken away all that [was] our father’s; and of [that] which [was] our father’s hath he gotten all this glory.
 Genesis 31:2	And Jacob beheld the countenance of Laban, and, behold, it [was] not toward him as before.
-Genesis 31:3	And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.
+Genesis 31:3	And the LORD said unto Jacob, 
+
 Genesis 31:4	And Jacob sent and called Rachel and Leah to the field unto his flock,
-Genesis 31:5	And said unto them, I see your father’s countenance, that it [is] not toward me as before; but the God of my father hath been with me.
-Genesis 31:6	And ye know that with all my power I have served your father.
-Genesis 31:7	And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
-Genesis 31:8	If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.
-Genesis 31:9	Thus God hath taken away the cattle of your father, and given [them] to me.
-Genesis 31:10	And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle [were] ringstraked, speckled, and grisled.
-Genesis 31:11	And the angel of God spake unto me in a dream, [saying], Jacob: And I said, Here [am] I.
-Genesis 31:12	And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle [are] ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.
-Genesis 31:13	I [am] the God of Bethel, where thou anointedst the pillar, [and] where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
+Genesis 31:5	And said unto them, 
+
 Genesis 31:14	And Rachel and Leah answered and said unto him, [Is there] yet any portion or inheritance for us in our father’s house?
 Genesis 31:15	Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.
 Genesis 31:16	For all the riches which God hath taken from our father, that [is] ours, and our children’s: now then, whatsoever God hath said unto thee, do.
@@ -1010,67 +1004,65 @@ Genesis 31:20	And Jacob stole away unawares to Laban the Syrian, in that he told
 Genesis 31:21	So he fled with all that he had; and he rose up, and passed over the river, and set his face [toward] the mount Gilead.
 Genesis 31:22	And it was told Laban on the third day that Jacob was fled.
 Genesis 31:23	And he took his brethren with him, and pursued after him seven days’ journey; and they overtook him in the mount Gilead.
-Genesis 31:24	And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.
+Genesis 31:24	And God came to Laban the Syrian in a dream by night, and said unto him, 
+
 Genesis 31:25	Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
-Genesis 31:26	And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives [taken] with the sword?
-Genesis 31:27	Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?
-Genesis 31:28	And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in [so] doing.
-Genesis 31:29	It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
-Genesis 31:30	And now, [though] thou wouldest needs be gone, because thou sore longedst after thy father’s house, [yet] wherefore hast thou stolen my gods?
-Genesis 31:31	And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.
-Genesis 31:32	With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what [is] thine with me, and take [it] to thee. For Jacob knew not that Rachel had stolen them.
+Genesis 31:26	And Laban said to Jacob, 
+
+Genesis 31:31	And Jacob answered and said to Laban, 
+
+ For Jacob knew not that Rachel had stolen them.
 Genesis 31:33	And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found [them] not. Then went he out of Leah’s tent, and entered into Rachel’s tent.
 Genesis 31:34	Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found [them] not.
-Genesis 31:35	And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women [is] upon me. And he searched, but found not the images.
-Genesis 31:36	And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What [is] my trespass? what [is] my sin, that thou hast so hotly pursued after me?
-Genesis 31:37	Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set [it] here before my brethren and thy brethren, that they may judge betwixt us both.
-Genesis 31:38	This twenty years [have] I [been] with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.
-Genesis 31:39	That which was torn [of beasts] I brought not unto thee; I bare the loss of it; of my hand didst thou require it, [whether] stolen by day, or stolen by night.
-Genesis 31:40	[Thus] I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
-Genesis 31:41	Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.
-Genesis 31:42	Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked [thee] yesternight.
-Genesis 31:43	And Laban answered and said unto Jacob, [These] daughters [are] my daughters, and [these] children [are] my children, and [these] cattle [are] my cattle, and all that thou seest [is] mine: and what can I do this day unto these my daughters, or unto their children which they have born?
-Genesis 31:44	Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
+Genesis 31:35	And she said to her father, 
+ And he searched, but found not the images.
+Genesis 31:36	And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, 
+
+Genesis 31:43	And Laban answered and said unto Jacob, 
+
 Genesis 31:45	And Jacob took a stone, and set it up [for] a pillar.
 Genesis 31:46	And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
 Genesis 31:47	And Laban called it Jegarsahadutha: but Jacob called it Galeed.
-Genesis 31:48	And Laban said, This heap [is] a witness between me and thee this day. Therefore was the name of it called Galeed;
-Genesis 31:49	And Mizpah; for he said, The LORD watch between me and thee, when we are absent one from another.
-Genesis 31:50	If thou shalt afflict my daughters, or if thou shalt take [other] wives beside my daughters, no man [is] with us; see, God [is] witness betwixt me and thee.
-Genesis 31:51	And Laban said to Jacob, Behold this heap, and behold [this] pillar, which I have cast betwixt me and thee;
-Genesis 31:52	This heap [be] witness, and [this] pillar [be] witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
-Genesis 31:53	The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.
+Genesis 31:48	And Laban said, 
+ Therefore was the name of it called Galeed;
+Genesis 31:49	And Mizpah; for he said, 
+
+Genesis 31:51	And Laban said to Jacob, 
+ And Jacob sware by the fear of his father Isaac.
+
 Genesis 31:54	Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
 Genesis 31:55	And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
 Genesis 32:1	And Jacob went on his way, and the angels of God met him.
-Genesis 32:2	And when Jacob saw them, he said, This [is] God’s host: and he called the name of that place Mahanaim.
+Genesis 32:2	And when Jacob saw them, he said, 
+ and he called the name of that place Mahanaim.
 Genesis 32:3	And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom.
-Genesis 32:4	And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
-Genesis 32:5	And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in thy sight.
+Genesis 32:4	And he commanded them, saying, Thus shall ye speak unto my lord Esau; 
+
 Genesis 32:6	And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.
 Genesis 32:7	Then Jacob was greatly afraid and distressed: and he divided the people that [was] with him, and the flocks, and herds, and the camels, into two bands;
-Genesis 32:8	And said, If Esau come to the one company, and smite it, then the other company which is left shall escape.
-Genesis 32:9	And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:
-Genesis 32:10	I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
-Genesis 32:11	Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, [and] the mother with the children.
-Genesis 32:12	And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
+Genesis 32:8	And said, 
+
+Genesis 32:9	And Jacob said, 
+
 Genesis 32:13	And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
 Genesis 32:14	Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
 Genesis 32:15	Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
-Genesis 32:16	And he delivered [them] into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.
-Genesis 32:17	And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose [art] thou? and whither goest thou? and whose [are] these before thee?
-Genesis 32:18	Then thou shalt say, [They be] thy servant Jacob’s; it [is] a present sent unto my lord Esau: and, behold, also he [is] behind us.
+Genesis 32:16	And he delivered [them] into the hand of his servants, every drove by themselves; and said unto his servants, 
+
 Genesis 32:19	And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.
-Genesis 32:20	And say ye moreover, Behold, thy servant Jacob [is] behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
+Genesis 32:20	And say ye moreover, 
+
 Genesis 32:21	So went the present over before him: and himself lodged that night in the company.
 Genesis 32:22	And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.
 Genesis 32:23	And he took them, and sent them over the brook, and sent over that he had.
 Genesis 32:24	And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
 Genesis 32:25	And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him.
-Genesis 32:26	And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
+Genesis 32:26	And he said, Let me go, for the day breaketh. And he said, 
+
 Genesis 32:27	And he said unto him, What [is] thy name? And he said, Jacob.
 Genesis 32:28	And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
-Genesis 32:29	And Jacob asked [him], and said, Tell [me], I pray thee, thy name. And he said, Wherefore [is] it [that] thou dost ask after my name? And he blessed him there.
+Genesis 32:29	And Jacob asked [him], and said, 
+
 Genesis 32:30	And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
 Genesis 32:31	And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
 Genesis 32:32	Therefore the children of Israel eat not [of] the sinew which shrank, which [is] upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew that shrank.
@@ -1078,17 +1070,24 @@ Genesis 33:1	And Jacob lifted up his eyes, and looked, and, behold, Esau came, a
 Genesis 33:2	And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.
 Genesis 33:3	And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.
 Genesis 33:4	And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
-Genesis 33:5	And he lifted up his eyes, and saw the women and the children; and said, Who [are] those with thee? And he said, The children which God hath graciously given thy servant.
+Genesis 33:5	And he lifted up his eyes, and saw the women and the children; and said, Who [are] those with thee? And he said, 
+
 Genesis 33:6	Then the handmaidens came near, they and their children, and they bowed themselves.
 Genesis 33:7	And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.
-Genesis 33:8	And he said, What [meanest] thou by all this drove which I met? And he said, [These are] to find grace in the sight of my lord.
-Genesis 33:9	And Esau said, I have enough, my brother; keep that thou hast unto thyself.
-Genesis 33:10	And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me.
-Genesis 33:11	Take, I pray thee, my blessing that is brought to thee; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took [it].
-Genesis 33:12	And he said, Let us take our journey, and let us go, and I will go before thee.
-Genesis 33:13	And he said unto him, My lord knoweth that the children [are] tender, and the flocks and herds with young [are] with me: and if men should overdrive them one day, all the flock will die.
-Genesis 33:14	Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
-Genesis 33:15	And Esau said, Let me now leave with thee [some] of the folk that [are] with me. And he said, What needeth it? let me find grace in the sight of my lord.
+Genesis 33:8	And he said, 
+ And he said, 
+
+Genesis 33:9	And Esau said, 
+
+Genesis 33:10	And Jacob said, 
+ And he urged him, and he took [it].
+Genesis 33:12	And he said, 
+
+Genesis 33:13	And he said unto him, 
+
+Genesis 33:15	And Esau said, 
+ And he said, 
+
 Genesis 33:16	So Esau returned that day on his way unto Seir.
 Genesis 33:17	And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.
 Genesis 33:18	And Jacob came to Shalem, a city of Shechem, which [is] in the land of Canaan, when he came from Padanaram; and pitched his tent before the city.
@@ -1123,11 +1122,13 @@ Genesis 34:26	And they slew Hamor and Shechem his son with the edge of the sword
 Genesis 34:27	The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.
 Genesis 34:28	They took their sheep, and their oxen, and their asses, and that which [was] in the city, and that which [was] in the field,
 Genesis 34:29	And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that [was] in the house.
-Genesis 34:30	And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I [being] few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.
+Genesis 34:30	And Jacob said to Simeon and Levi, 
+
 Genesis 34:31	And they said, Should he deal with our sister as with an harlot?
-Genesis 35:1	And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.
-Genesis 35:2	Then Jacob said unto his household, and to all that [were] with him, Put away the strange gods that [are] among you, and be clean, and change your garments:
-Genesis 35:3	And let us arise, and go up to Bethel; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went.
+Genesis 35:1	And God said unto Jacob, 
+
+Genesis 35:2	Then Jacob said unto his household, and to all that [were] with him, 
+
 Genesis 35:4	And they gave unto Jacob all the strange gods which [were] in their hand, and [all their] earrings which [were] in their ears; and Jacob hid them under the oak which [was] by Shechem.
 Genesis 35:5	And they journeyed: and the terror of God was upon the cities that [were] round about them, and they did not pursue after the sons of Jacob.
 Genesis 35:6	So Jacob came to Luz, which [is] in the land of Canaan, that [is], Bethel, he and all the people that [were] with him.
