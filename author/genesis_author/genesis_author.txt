@@ -1254,22 +1254,32 @@ Genesis 38:7	And Er, Judah’s firstborn, was wicked in the sight of the LORD; a
 Genesis 38:8	And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother.
 Genesis 38:9	And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled [it] on the ground, lest that he should give seed to his brother.
 Genesis 38:10	And the thing which he did displeased the LORD: wherefore he slew him also.
-Genesis 38:11	Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren [did]. And Tamar went and dwelt in her father’s house.
+Genesis 38:11	Then said Judah to Tamar his daughter in law, 
+ And Tamar went and dwelt in her father’s house.
 Genesis 38:12	And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 Genesis 38:13	And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
 Genesis 38:14	And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which [is] by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
 Genesis 38:15	When Judah saw her, he thought her [to be] an harlot; because she had covered her face.
-Genesis 38:16	And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she [was] his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?
-Genesis 38:17	And he said, I will send [thee] a kid from the flock. And she said, Wilt thou give [me] a pledge, till thou send [it]?
-Genesis 38:18	And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that [is] in thine hand. And he gave [it] her, and came in unto her, and she conceived by him.
+Genesis 38:16	And he turned unto her by the way, and said, 
+ (for he knew not that she [was] his daughter in law.) And she said, 
+
+Genesis 38:17	And he said, 
+ And she said, 
+
+Genesis 38:18	And he said, 
+ And she said, 
+  And he gave [it] her, and came in unto her, and she conceived by him.
 Genesis 38:19	And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
 Genesis 38:20	And Judah sent the kid by the hand of his friend the Adullamite, to receive [his] pledge from the woman’s hand: but he found her not.
 Genesis 38:21	Then he asked the men of that place, saying, Where [is] the harlot, that [was] openly by the way side? And they said, There was no harlot in this [place].
 Genesis 38:22	And he returned to Judah, and said, I cannot find her; and also the men of the place said, [that] there was no harlot in this [place].
 Genesis 38:23	And Judah said, Let her take [it] to her, lest we be shamed: behold, I sent this kid, and thou hast not found her.
-Genesis 38:24	And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she [is] with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
-Genesis 38:25	When she [was] brought forth, she sent to her father in law, saying, By the man, whose these [are, am] I with child: and she said, Discern, I pray thee, whose [are] these, the signet, and bracelets, and staff.
-Genesis 38:26	And Judah acknowledged [them], and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
+Genesis 38:24	And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she [is] with child by whoredom. And Judah said, 
+
+Genesis 38:25	When she [was] brought forth, she sent to her father in law, saying, 
+
+Genesis 38:26	And Judah acknowledged [them], and said, 
+ And he knew her again no more.
 Genesis 38:27	And it came to pass in the time of her travail, that, behold, twins [were] in her womb.
 Genesis 38:28	And it came to pass, when she travailed, that [the one] put out [his] hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.
 Genesis 38:29	And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? [this] breach [be] upon thee: therefore his name was called Pharez.
@@ -1281,8 +1291,8 @@ Genesis 39:4	And Joseph found grace in his sight, and he served him: and he made
 Genesis 39:5	And it came to pass from the time [that] he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian’s house for Joseph’s sake; and the blessing of the LORD was upon all that he had in the house, and in the field.
 Genesis 39:6	And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was [a] goodly [person], and well favoured.
 Genesis 39:7	And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me.
-Genesis 39:8	But he refused, and said unto his master’s wife, Behold, my master wotteth not what [is] with me in the house, and he hath committed all that he hath to my hand;
-Genesis 39:9	[There is] none greater in this house than I; neither hath he kept back any thing from me but thee, because thou [art] his wife: how then can I do this great wickedness, and sin against God?
+Genesis 39:8	But he refused, and said unto his master’s wife, 
+
 Genesis 39:10	And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, [or] to be with her.
 Genesis 39:11	And it came to pass about this time, that [Joseph] went into the house to do his business; and [there was] none of the men of the house there within.
 Genesis 39:12	And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
@@ -1303,19 +1313,18 @@ Genesis 40:3	And he put them in ward in the house of the captain of the guard, i
 Genesis 40:4	And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
 Genesis 40:5	And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which [were] bound in the prison.
 Genesis 40:6	And Joseph came in unto them in the morning, and looked upon them, and, behold, they [were] sad.
-Genesis 40:7	And he asked Pharaoh’s officers that [were] with him in the ward of his lord’s house, saying, Wherefore look ye [so] sadly to day?
-Genesis 40:8	And they said unto him, We have dreamed a dream, and [there is] no interpreter of it. And Joseph said unto them, [Do] not interpretations [belong] to God? tell me [them], I pray you.
-Genesis 40:9	And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine [was] before me;
-Genesis 40:10	And in the vine [were] three branches: and it [was] as though it budded, [and] her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
-Genesis 40:11	And Pharaoh’s cup [was] in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.
-Genesis 40:12	And Joseph said unto him, This [is] the interpretation of it: The three branches [are] three days:
-Genesis 40:13	Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.
-Genesis 40:14	But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
-Genesis 40:15	For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
+Genesis 40:7	And he asked Pharaoh’s officers that [were] with him in the ward of his lord’s house, saying, 
+
+Genesis 40:8	And they said unto him, We have dreamed a dream, and [there is] no interpreter of it. And Joseph said unto them, 
+
+Genesis 40:9	And the chief butler told his dream to Joseph, and said to him, 
+
+Genesis 40:12	And Joseph said unto him, This [is] the interpretation of it: 
+
 Genesis 40:16	When the chief baker saw that the interpretation was good, he said unto Joseph, I also [was] in my dream, and, behold, [I had] three white baskets on my head:
 Genesis 40:17	And in the uppermost basket [there was] of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
-Genesis 40:18	And Joseph answered and said, This [is] the interpretation thereof: The three baskets [are] three days:
-Genesis 40:19	Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
+Genesis 40:18	And Joseph answered and said, 
+
 Genesis 40:20	And it came to pass the third day, [which was] Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
 Genesis 40:21	And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:
 Genesis 40:22	But he hanged the chief baker: as Joseph had interpreted to them.
@@ -1328,77 +1337,73 @@ Genesis 41:5	And he slept and dreamed the second time: and, behold, seven ears o
 Genesis 41:6	And, behold, seven thin ears and blasted with the east wind sprung up after them.
 Genesis 41:7	And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, [it was] a dream.
 Genesis 41:8	And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but [there was] none that could interpret them unto Pharaoh.
-Genesis 41:9	Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:
-Genesis 41:10	Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, [both] me and the chief baker:
-Genesis 41:11	And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.
-Genesis 41:12	And [there was] there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
-Genesis 41:13	And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.
+Genesis 41:9	Then spake the chief butler unto Pharaoh, saying, 
+
 Genesis 41:14	Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved [himself], and changed his raiment, and came in unto Pharaoh.
-Genesis 41:15	And Pharaoh said unto Joseph, I have dreamed a dream, and [there is] none that can interpret it: and I have heard say of thee, [that] thou canst understand a dream to interpret it.
-Genesis 41:16	And Joseph answered Pharaoh, saying, [It is] not in me: God shall give Pharaoh an answer of peace.
-Genesis 41:17	And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:
-Genesis 41:18	And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:
-Genesis 41:19	And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
-Genesis 41:20	And the lean and the ill favoured kine did eat up the first seven fat kine:
-Genesis 41:21	And when they had eaten them up, it could not be known that they had eaten them; but they [were] still ill favoured, as at the beginning. So I awoke.
-Genesis 41:22	And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:
-Genesis 41:23	And, behold, seven ears, withered, thin, [and] blasted with the east wind, sprung up after them:
-Genesis 41:24	And the thin ears devoured the seven good ears: and I told [this] unto the magicians; but [there was] none that could declare [it] to me.
-Genesis 41:25	And Joseph said unto Pharaoh, The dream of Pharaoh [is] one: God hath shewed Pharaoh what he [is] about to do.
-Genesis 41:26	The seven good kine [are] seven years; and the seven good ears [are] seven years: the dream [is] one.
-Genesis 41:27	And the seven thin and ill favoured kine that came up after them [are] seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
-Genesis 41:28	This [is] the thing which I have spoken unto Pharaoh: What God [is] about to do he sheweth unto Pharaoh.
-Genesis 41:29	Behold, there come seven years of great plenty throughout all the land of Egypt:
-Genesis 41:30	And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
-Genesis 41:31	And the plenty shall not be known in the land by reason of that famine following; for it [shall be] very grievous.
-Genesis 41:32	And for that the dream was doubled unto Pharaoh twice; [it is] because the thing [is] established by God, and God will shortly bring it to pass.
-Genesis 41:33	Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.
-Genesis 41:34	Let Pharaoh do [this], and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.
-Genesis 41:35	And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
-Genesis 41:36	And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.
+Genesis 41:15	And Pharaoh said unto Joseph, 
+
+Genesis 41:16	And Joseph answered Pharaoh, saying, 
+
+
+Genesis 41:17	And Pharaoh said unto Joseph, 
+
+Genesis 41:25	And Joseph said unto Pharaoh, 
+
 Genesis 41:37	And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
-Genesis 41:38	And Pharaoh said unto his servants, Can we find [such a one] as this [is], a man in whom the Spirit of God [is]?
-Genesis 41:39	And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, [there is] none so discreet and wise as thou [art]:
-Genesis 41:40	Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
-Genesis 41:41	And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.
+Genesis 41:38	And Pharaoh said unto his servants, 
+
+Genesis 41:39	And Pharaoh said unto Joseph, 
+
+Genesis 41:41	And Pharaoh said unto Joseph, 
+
 Genesis 41:42	And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
 Genesis 41:43	And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him [ruler] over all the land of Egypt.
-Genesis 41:44	And Pharaoh said unto Joseph, I [am] Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.
+Genesis 41:44	And Pharaoh said unto Joseph, 
+
 Genesis 41:45	And Pharaoh called Joseph’s name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over [all] the land of Egypt.
 Genesis 41:46	And Joseph [was] thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
 Genesis 41:47	And in the seven plenteous years the earth brought forth by handfuls.
 Genesis 41:48	And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which [was] round about every city, laid he up in the same.
 Genesis 41:49	And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for [it was] without number.
 Genesis 41:50	And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him.
-Genesis 41:51	And Joseph called the name of the firstborn Manasseh: For God, [said he], hath made me forget all my toil, and all my father’s house.
-Genesis 41:52	And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.
+Genesis 41:51	And Joseph called the name of the firstborn Manasseh: 
+
+Genesis 41:52	And the name of the second called he Ephraim: 
+
 Genesis 41:53	And the seven years of plenteousness, that was in the land of Egypt, were ended.
 Genesis 41:54	And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
-Genesis 41:55	And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
+Genesis 41:55	And when all the land of Egypt was famished, the people cried to Pharaoh for bread: 
+
 Genesis 41:56	And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.
 Genesis 41:57	And all countries came into Egypt to Joseph for to buy [corn]; because that the famine was [so] sore in all lands.
-Genesis 42:1	Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
-Genesis 42:2	And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.
+Genesis 42:1	Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, 
+
+Genesis 42:2	And he said, Behold, 
+
 Genesis 42:3	And Joseph’s ten brethren went down to buy corn in Egypt.
 Genesis 42:4	But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
 Genesis 42:5	And the sons of Israel came to buy [corn] among those that came: for the famine was in the land of Canaan.
 Genesis 42:6	And Joseph [was] the governor over the land, [and] he [it was] that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him [with] their faces to the earth.
-Genesis 42:7	And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.
+Genesis 42:7	And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, 
+ And they said, From the land of Canaan to buy food.
 Genesis 42:8	And Joseph knew his brethren, but they knew not him.
-Genesis 42:9	And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye [are] spies; to see the nakedness of the land ye are come.
+Genesis 42:9	And Joseph remembered the dreams which he dreamed of them, and said unto them, 
+
 Genesis 42:10	And they said unto him, Nay, my lord, but to buy food are thy servants come.
 Genesis 42:11	We [are] all one man’s sons; we [are] true [men], thy servants are no spies.
-Genesis 42:12	And he said unto them, Nay, but to see the nakedness of the land ye are come.
+Genesis 42:12	And he said unto them, 
+
 Genesis 42:13	And they said, Thy servants [are] twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest [is] this day with our father, and one [is] not.
-Genesis 42:14	And Joseph said unto them, That [is it] that I spake unto you, saying, Ye [are] spies:
-Genesis 42:15	Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.
-Genesis 42:16	Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether [there be any] truth in you: or else by the life of Pharaoh surely ye [are] spies.
+Genesis 42:14	And Joseph said unto them, 
+
+Genesis 42:15	Hereby ye shall be proved: 
+
 Genesis 42:17	And he put them all together into ward three days.
-Genesis 42:18	And Joseph said unto them the third day, This do, and live; [for] I fear God:
-Genesis 42:19	If ye [be] true [men], let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:
-Genesis 42:20	But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.
+Genesis 42:18	And Joseph said unto them the third day, 
+
 Genesis 42:21	And they said one to another, We [are] verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.
-Genesis 42:22	And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.
+Genesis 42:22	And Reuben answered them, saying, 
+
 Genesis 42:23	And they knew not that Joseph understood [them]; for he spake unto them by an interpreter.
 Genesis 42:24	And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.
 Genesis 42:25	Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them.
@@ -1412,48 +1417,55 @@ Genesis 42:32	We [be] twelve brethren, sons of our father; one [is] not, and the
 Genesis 42:33	And the man, the lord of the country, said unto us, Hereby shall I know that ye [are] true [men]; leave one of your brethren [here] with me, and take [food for] the famine of your households, and be gone:
 Genesis 42:34	And bring your youngest brother unto me: then shall I know that ye [are] no spies, but [that] ye [are] true [men: so] will I deliver you your brother, and ye shall traffick in the land.
 Genesis 42:35	And it came to pass as they emptied their sacks, that, behold, every man’s bundle of money [was] in his sack: and when [both] they and their father saw the bundles of money, they were afraid.
-Genesis 42:36	And Jacob their father said unto them, Me have ye bereaved [of my children]: Joseph [is] not, and Simeon [is] not, and ye will take Benjamin [away]: all these things are against me.
-Genesis 42:37	And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.
-Genesis 42:38	And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.
+Genesis 42:36	And Jacob their father said unto them, 
+
+Genesis 42:37	And Reuben spake unto his father, saying, 
+
+Genesis 42:38	And he said, 
+
 Genesis 43:1	And the famine [was] sore in the land.
-Genesis 43:2	And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.
-Genesis 43:3	And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother [be] with you.
-Genesis 43:4	If thou wilt send our brother with us, we will go down and buy thee food:
-Genesis 43:5	But if thou wilt not send [him], we will not go down: for the man said unto us, Ye shall not see my face, except your brother [be] with you.
-Genesis 43:6	And Israel said, Wherefore dealt ye [so] ill with me, [as] to tell the man whether ye had yet a brother?
+Genesis 43:2	And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, 
+
+Genesis 43:3	And Judah spake unto him, saying, 
+
+Genesis 43:6	And Israel said, 
+
 Genesis 43:7	And they said, The man asked us straitly of our state, and of our kindred, saying, [Is] your father yet alive? have ye [another] brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?
 Genesis 43:8	And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, [and] also our little ones.
 Genesis 43:9	I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:
 Genesis 43:10	For except we had lingered, surely now we had returned this second time.
-Genesis 43:11	And their father Israel said unto them, If [it must be] so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
-Genesis 43:12	And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry [it] again in your hand; peradventure it [was] an oversight:
-Genesis 43:13	Take also your brother, and arise, go again unto the man:
-Genesis 43:14	And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved [of my children], I am bereaved.
+Genesis 43:11	And their father Israel said unto them, 
+
 Genesis 43:15	And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.
-Genesis 43:16	And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring [these] men home, and slay, and make ready; for [these] men shall dine with me at noon.
+Genesis 43:16	And when Joseph saw Benjamin with them, he said to the ruler of his house, 
+
 Genesis 43:17	And the man did as Joseph bade; and the man brought the men into Joseph’s house.
 Genesis 43:18	And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.
 Genesis 43:19	And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,
 Genesis 43:20	And said, O sir, we came indeed down at the first time to buy food:
 Genesis 43:21	And it came to pass, when we came to the inn, that we opened our sacks, and, behold, [every] man’s money [was] in the mouth of his sack, our money in full weight: and we have brought it again in our hand.
 Genesis 43:22	And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.
-Genesis 43:23	And he said, Peace [be] to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.
+Genesis 43:23	And he said, 
+ And he brought Simeon out unto them.
 Genesis 43:24	And the man brought the men into Joseph’s house, and gave [them] water, and they washed their feet; and he gave their asses provender.
 Genesis 43:25	And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.
 Genesis 43:26	And when Joseph came home, they brought him the present which [was] in their hand into the house, and bowed themselves to him to the earth.
-Genesis 43:27	And he asked them of [their] welfare, and said, [Is] your father well, the old man of whom ye spake? [Is] he yet alive?
+Genesis 43:27	And he asked them of [their] welfare, and said, 
+
 Genesis 43:28	And they answered, Thy servant our father [is] in good health, he [is] yet alive. And they bowed down their heads, and made obeisance.
-Genesis 43:29	And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, [Is] this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.
+Genesis 43:29	And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, 
+
 Genesis 43:30	And Joseph made haste; for his bowels did yearn upon his brother: and he sought [where] to weep; and he entered into [his] chamber, and wept there.
 Genesis 43:31	And he washed his face, and went out, and refrained himself, and said, Set on bread.
 Genesis 43:32	And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that [is] an abomination unto the Egyptians.
 Genesis 43:33	And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.
 Genesis 43:34	And he took [and sent] messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.
-Genesis 44:1	And he commanded the steward of his house, saying, Fill the men’s sacks [with] food, as much as they can carry, and put every man’s money in his sack’s mouth.
-Genesis 44:2	And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
+Genesis 44:1	And he commanded the steward of his house, saying, 
+
+ And he did according to the word that Joseph had spoken.
 Genesis 44:3	As soon as the morning was light, the men were sent away, they and their asses.
-Genesis 44:4	[And] when they were gone out of the city, [and] not [yet] far off, Joseph said unto his steward, Up, follow after the men; and when thou dost overtake them, say unto them, Wherefore have ye rewarded evil for good?
-Genesis 44:5	[Is] not this [it] in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.
+Genesis 44:4	[And] when they were gone out of the city, [and] not [yet] far off, Joseph said unto his steward,
+
 Genesis 44:6	And he overtook them, and he spake unto them these same words.
 Genesis 44:7	And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:
 Genesis 44:8	Behold, the money, which we found in our sacks’ mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord’s house silver or gold?
@@ -1463,58 +1475,46 @@ Genesis 44:11	Then they speedily took down every man his sack to the ground, and
 Genesis 44:12	And he searched, [and] began at the eldest, and left at the youngest: and the cup was found in Benjamin’s sack.
 Genesis 44:13	Then they rent their clothes, and laded every man his ass, and returned to the city.
 Genesis 44:14	And Judah and his brethren came to Joseph’s house; for he [was] yet there: and they fell before him on the ground.
-Genesis 44:15	And Joseph said unto them, What deed [is] this that ye have done? wot ye not that such a man as I can certainly divine?
-Genesis 44:16	And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of thy servants: behold, we [are] my lord’s servants, both we, and [he] also with whom the cup is found.
-Genesis 44:17	And he said, God forbid that I should do so: [but] the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.
-Genesis 44:18	Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord’s ears, and let not thine anger burn against thy servant: for thou [art] even as Pharaoh.
-Genesis 44:19	My lord asked his servants, saying, Have ye a father, or a brother?
-Genesis 44:20	And we said unto my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loveth him.
-Genesis 44:21	And thou saidst unto thy servants, Bring him down unto me, that I may set mine eyes upon him.
-Genesis 44:22	And we said unto my lord, The lad cannot leave his father: for [if] he should leave his father, [his father] would die.
-Genesis 44:23	And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.
-Genesis 44:24	And it came to pass when we came up unto thy servant my father, we told him the words of my lord.
-Genesis 44:25	And our father said, Go again, [and] buy us a little food.
-Genesis 44:26	And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man’s face, except our youngest brother [be] with us.
-Genesis 44:27	And thy servant my father said unto us, Ye know that my wife bare me two [sons]:
-Genesis 44:28	And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:
-Genesis 44:29	And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.
-Genesis 44:30	Now therefore when I come to thy servant my father, and the lad [be] not with us; seeing that his life is bound up in the lad’s life;
-Genesis 44:31	It shall come to pass, when he seeth that the lad [is] not [with us], that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.
-Genesis 44:32	For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.
-Genesis 44:33	Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.
-Genesis 44:34	For how shall I go up to my father, and the lad [be] not with me? lest peradventure I see the evil that shall come on my father.
-Genesis 45:1	Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
+Genesis 44:15	And Joseph said unto them, 
+
+Genesis 44:16	And Judah said, 
+
+Genesis 44:17	And he said, 
+
+Genesis 44:18	Then Judah came near unto him, and said, 
+
+
+Genesis 45:1	Then Joseph could not refrain himself before all them that stood by him; and he cried, 
+
+ And there stood no man with him, while Joseph made himself known unto his brethren.
 Genesis 45:2	And he wept aloud: and the Egyptians and the house of Pharaoh heard.
-Genesis 45:3	And Joseph said unto his brethren, I [am] Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.
-Genesis 45:4	And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I [am] Joseph your brother, whom ye sold into Egypt.
-Genesis 45:5	Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.
-Genesis 45:6	For these two years [hath] the famine [been] in the land: and yet [there are] five years, in the which [there shall] neither [be] earing nor harvest.
-Genesis 45:7	And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
-Genesis 45:8	So now [it was] not you [that] sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
-Genesis 45:9	Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
-Genesis 45:10	And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children’s children, and thy flocks, and thy herds, and all that thou hast:
-Genesis 45:11	And there will I nourish thee; for yet [there are] five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.
-Genesis 45:12	And, behold, your eyes see, and the eyes of my brother Benjamin, that [it is] my mouth that speaketh unto you.
-Genesis 45:13	And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
+Genesis 45:3	And Joseph said unto his brethren, 
+
+ And his brethren could not answer him; for they were troubled at his presence.
+
+Genesis 45:4	And Joseph said unto his brethren, 
+
+
 Genesis 45:14	And he fell upon his brother Benjamin’s neck, and wept; and Benjamin wept upon his neck.
 Genesis 45:15	Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
 Genesis 45:16	And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren are come: and it pleased Pharaoh well, and his servants.
-Genesis 45:17	And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;
-Genesis 45:18	And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.
-Genesis 45:19	Now thou art commanded, this do ye; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
-Genesis 45:20	Also regard not your stuff; for the good of all the land of Egypt [is] yours.
+Genesis 45:17	And Pharaoh said unto Joseph, 
+
 Genesis 45:21	And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
 Genesis 45:22	To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred [pieces] of silver, and five changes of raiment.
 Genesis 45:23	And to his father he sent after this [manner]; ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.
-Genesis 45:24	So he sent his brethren away, and they departed: and he said unto them, See that ye fall not out by the way.
+Genesis 45:24	So he sent his brethren away, and they departed: and he said unto them, 
+
 Genesis 45:25	And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,
 Genesis 45:26	And told him, saying, Joseph [is] yet alive, and he [is] governor over all the land of Egypt. And Jacob’s heart fainted, for he believed them not.
 Genesis 45:27	And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
-Genesis 45:28	And Israel said, [It is] enough; Joseph my son [is] yet alive: I will go and see him before I die.
+Genesis 45:28	And Israel said, 
+
 Genesis 46:1	And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.
-Genesis 46:2	And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here [am] I.
-Genesis 46:3	And he said, I [am] God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
-Genesis 46:4	I will go down with thee into Egypt; and I will also surely bring thee up [again]: and Joseph shall put his hand upon thine eyes.
+Genesis 46:2	And God spake unto Israel in the visions of the night, and said, 
+
+Genesis 46:3	And he said, 
+
 Genesis 46:5	And Jacob rose up from Beersheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
 Genesis 46:6	And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
 Genesis 46:7	His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.
@@ -1540,42 +1540,44 @@ Genesis 46:26	All the souls that came with Jacob into Egypt, which came out of h
 Genesis 46:27	And the sons of Joseph, which were born him in Egypt, [were] two souls: all the souls of the house of Jacob, which came into Egypt, [were] threescore and ten.
 Genesis 46:28	And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
 Genesis 46:29	And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
-Genesis 46:30	And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou [art] yet alive.
-Genesis 46:31	And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which [were] in the land of Canaan, are come unto me;
-Genesis 46:32	And the men [are] shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
-Genesis 46:33	And it shall come to pass, when Pharaoh shall call you, and shall say, What [is] your occupation?
-Genesis 46:34	That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, [and] also our fathers: that ye may dwell in the land of Goshen; for every shepherd [is] an abomination unto the Egyptians.
+Genesis 46:30	And Israel said unto Joseph,
+
+Genesis 46:31	And Joseph said unto his brethren, and unto his father’s house, 
+
 Genesis 47:1	Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they [are] in the land of Goshen.
 Genesis 47:2	And he took some of his brethren, [even] five men, and presented them unto Pharaoh.
-Genesis 47:3	And Pharaoh said unto his brethren, What [is] your occupation? And they said unto Pharaoh, Thy servants [are] shepherds, both we, [and] also our fathers.
+Genesis 47:3	And Pharaoh said unto his brethren, 
+And they said unto Pharaoh, Thy servants [are] shepherds, both we, [and] also our fathers.
 Genesis 47:4	They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine [is] sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
-Genesis 47:5	And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:
-Genesis 47:6	The land of Egypt [is] before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest [any] men of activity among them, then make them rulers over my cattle.
+Genesis 47:5	And Pharaoh spake unto Joseph, saying,
+
 Genesis 47:7	And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.
-Genesis 47:8	And Pharaoh said unto Jacob, How old [art] thou?
-Genesis 47:9	And Jacob said unto Pharaoh, The days of the years of my pilgrimage [are] an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
+Genesis 47:8	And Pharaoh said unto Jacob, 
+Genesis 47:9	And Jacob said unto Pharaoh, 
+
 Genesis 47:10	And Jacob blessed Pharaoh, and went out from before Pharaoh.
 Genesis 47:11	And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
 Genesis 47:12	And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to [their] families.
 Genesis 47:13	And [there was] no bread in all the land; for the famine [was] very sore, so that the land of Egypt and [all] the land of Canaan fainted by reason of the famine.
 Genesis 47:14	And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house.
 Genesis 47:15	And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
-Genesis 47:16	And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.
+Genesis 47:16	And Joseph said, 
+
 Genesis 47:17	And they brought their cattle unto Joseph: and Joseph gave them bread [in exchange] for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.
 Genesis 47:18	When that year was ended, they came unto him the second year, and said unto him, We will not hide [it] from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
 Genesis 47:19	Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give [us] seed, that we may live, and not die, that the land be not desolate.
 Genesis 47:20	And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s.
 Genesis 47:21	And as for the people, he removed them to cities from [one] end of the borders of Egypt even to the [other] end thereof.
 Genesis 47:22	Only the land of the priests bought he not; for the priests had a portion [assigned them] of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.
-Genesis 47:23	Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, [here is] seed for you, and ye shall sow the land.
-Genesis 47:24	And it shall come to pass in the increase, that ye shall give the fifth [part] unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
+Genesis 47:23	Then Joseph said unto the people, 
+
 Genesis 47:25	And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants.
 Genesis 47:26	And Joseph made it a law over the land of Egypt unto this day, [that] Pharaoh should have the fifth [part]; except the land of the priests only, [which] became not Pharaoh’s.
 Genesis 47:27	And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.
 Genesis 47:28	And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
-Genesis 47:29	And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
-Genesis 47:30	But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.
-Genesis 47:31	And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head.
+Genesis 47:29	And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, 
+
+ And he sware unto him. And Israel bowed himself upon the bed’s head.
 Genesis 48:1	And it came to pass after these things, that [one] told Joseph, Behold, thy father [is] sick: and he took with him his two sons, Manasseh and Ephraim.
 Genesis 48:2	And [one] told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.
 Genesis 48:3	And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,
