@@ -576,38 +576,25 @@ Exodus 33:17	And the LORD said unto Moses,
 
 Exodus 33:18	And he said, 
 
-Exodus 33:19	And he said, I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.
-Exodus 33:20	And he said, Thou canst not see my face: for there shall no man see me, and live.
-Exodus 33:21	And the LORD said, Behold, [there is] a place by me, and thou shalt stand upon a rock:
-Exodus 33:22	And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:
-Exodus 33:23	And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
-Exodus 34:1	And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon [these] tables the words that were in the first tables, which thou brakest.
-Exodus 34:2	And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.
-Exodus 34:3	And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.
+Exodus 33:19	And he said, 
+
+Exodus 33:20	And he said, 
+
+Exodus 33:21	And the LORD said, 
+
+Exodus 34:1	And the LORD said unto Moses, 
+
 Exodus 34:4	And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.
 Exodus 34:5	And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.
-Exodus 34:6	And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,
-Exodus 34:7	Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear [the guilty]; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth [generation].
+Exodus 34:6	And the LORD passed by before him, and proclaimed, 
+
 Exodus 34:8	And Moses made haste, and bowed his head toward the earth, and worshipped.
-Exodus 34:9	And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it [is] a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.
-Exodus 34:10	And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou [art] shall see the work of the LORD: for it [is] a terrible thing that I will do with thee.
-Exodus 34:11	Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.
-Exodus 34:12	Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:
-Exodus 34:13	But ye shall destroy their altars, break their images, and cut down their groves:
-Exodus 34:14	For thou shalt worship no other god: for the LORD, whose name [is] Jealous, [is] a jealous God:
-Exodus 34:15	Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and [one] call thee, and thou eat of his sacrifice;
-Exodus 34:16	And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
-Exodus 34:17	Thou shalt make thee no molten gods.
-Exodus 34:18	The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.
-Exodus 34:19	All that openeth the matrix [is] mine; and every firstling among thy cattle, [whether] ox or sheep, [that is male].
-Exodus 34:20	But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem [him] not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.
-Exodus 34:21	Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.
-Exodus 34:22	And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.
-Exodus 34:23	Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel.
-Exodus 34:24	For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year.
-Exodus 34:25	Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.
-Exodus 34:26	The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.
-Exodus 34:27	And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.
+Exodus 34:9	And he said, 
+
+Exodus 34:10	And he said, 
+
+Exodus 34:27	And the LORD said unto Moses, 
+
 Exodus 34:28	And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.
 Exodus 34:29	And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
 Exodus 34:30	And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.
@@ -616,47 +603,15 @@ Exodus 34:32	And afterward all the children of Israel came nigh: and he gave the
 Exodus 34:33	And [till] Moses had done speaking with them, he put a vail on his face.
 Exodus 34:34	But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel [that] which he was commanded.
 Exodus 34:35	And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him.
-Exodus 35:1	And Moses gathered all the congregation of the children of Israel together, and said unto them, These [are] the words which the LORD hath commanded, that [ye] should do them.
-Exodus 35:2	Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.
-Exodus 35:3	Ye shall kindle no fire throughout your habitations upon the sabbath day.
-Exodus 35:4	And Moses spake unto all the congregation of the children of Israel, saying, This [is] the thing which the LORD commanded, saying,
-Exodus 35:5	Take ye from among you an offering unto the LORD: whosoever [is] of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,
-Exodus 35:6	And blue, and purple, and scarlet, and fine linen, and goats’ [hair],
-Exodus 35:7	And rams’ skins dyed red, and badgers’ skins, and shittim wood,
-Exodus 35:8	And oil for the light, and spices for anointing oil, and for the sweet incense,
-Exodus 35:9	And onyx stones, and stones to be set for the ephod, and for the breastplate.
-Exodus 35:10	And every wise hearted among you shall come, and make all that the LORD hath commanded;
-Exodus 35:11	The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,
-Exodus 35:12	The ark, and the staves thereof, [with] the mercy seat, and the vail of the covering,
-Exodus 35:13	The table, and his staves, and all his vessels, and the shewbread,
-Exodus 35:14	The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,
-Exodus 35:15	And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,
-Exodus 35:16	The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,
-Exodus 35:17	The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,
-Exodus 35:18	The pins of the tabernacle, and the pins of the court, and their cords,
-Exodus 35:19	The cloths of service, to do service in the holy [place], the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.
-Exodus 35:20	And all the congregation of the children of Israel departed from the presence of Moses.
-Exodus 35:21	And they came, every one whose heart stirred him up, and every one whom his spirit made willing, [and] they brought the LORD’S offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
-Exodus 35:22	And they came, both men and women, as many as were willing hearted, [and] brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered [offered] an offering of gold unto the LORD.
-Exodus 35:23	And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ [hair], and red skins of rams, and badgers’ skins, brought [them].
-Exodus 35:24	Every one that did offer an offering of silver and brass brought the LORD’S offering: and every man, with whom was found shittim wood for any work of the service, brought [it].
-Exodus 35:25	And all the women that were wise hearted did spin with their hands, and brought that which they had spun, [both] of blue, and of purple, [and] of scarlet, and of fine linen.
-Exodus 35:26	And all the women whose heart stirred them up in wisdom spun goats’ [hair].
-Exodus 35:27	And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;
-Exodus 35:28	And spice, and oil for the light, and for the anointing oil, and for the sweet incense.
-Exodus 35:29	The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.
-Exodus 35:30	And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;
-Exodus 35:31	And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;
-Exodus 35:32	And to devise curious works, to work in gold, and in silver, and in brass,
-Exodus 35:33	And in the cutting of stones, to set [them], and in carving of wood, to make any manner of cunning work.
-Exodus 35:34	And he hath put in his heart that he may teach, [both] he, and Aholiab, the son of Ahisamach, of the tribe of Dan.
-Exodus 35:35	Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, [even] of them that do any work, and of those that devise cunning work.
+Exodus 35:1	And Moses gathered all the congregation of the children of Israel together, and said unto them, 
+
 Exodus 36:1	Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded.
 Exodus 36:2	And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the LORD had put wisdom, [even] every one whose heart stirred him up to come unto the work to do it:
 Exodus 36:3	And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it [withal]. And they brought yet unto him free offerings every morning.
 Exodus 36:4	And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made;
 Exodus 36:5	And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the LORD commanded to make.
-Exodus 36:6	And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.
+Exodus 36:6	And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, 
+ So the people were restrained from bringing.
 Exodus 36:7	For the stuff they had was sufficient for all the work to make it, and too much.
 Exodus 36:8	And every wise hearted man among them that wrought the work of the tabernacle made ten curtains [of] fine twined linen, and blue, and purple, and scarlet: [with] cherubims of cunning work made he them.
 Exodus 36:9	The length of one curtain [was] twenty and eight cubits, and the breadth of one curtain four cubits: the curtains [were] all of one size.
@@ -793,20 +748,8 @@ Exodus 39:41	The cloths of service to do service in the holy [place], and the ho
 Exodus 39:42	According to all that the LORD commanded Moses, so the children of Israel made all the work.
 Exodus 39:43	And Moses did look upon all the work, and, behold, they had done it as the LORD had commanded, even so had they done it: and Moses blessed them.
 Exodus 40:1	And the LORD spake unto Moses, saying,
-Exodus 40:2	On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.
-Exodus 40:3	And thou shalt put therein the ark of the testimony, and cover the ark with the vail.
-Exodus 40:4	And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.
-Exodus 40:5	And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.
-Exodus 40:6	And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation.
-Exodus 40:7	And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.
-Exodus 40:8	And thou shalt set up the court round about, and hang up the hanging at the court gate.
-Exodus 40:9	And thou shalt take the anointing oil, and anoint the tabernacle, and all that [is] therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.
-Exodus 40:10	And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.
-Exodus 40:11	And thou shalt anoint the laver and his foot, and sanctify it.
-Exodus 40:12	And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.
-Exodus 40:13	And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest’s office.
-Exodus 40:14	And thou shalt bring his sons, and clothe them with coats:
-Exodus 40:15	And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest’s office: for their anointing shall surely be an everlasting priesthood throughout their generations.
+
+
 Exodus 40:16	Thus did Moses: according to all that the LORD commanded him, so did he.
 Exodus 40:17	And it came to pass in the first month in the second year, on the first [day] of the month, [that] the tabernacle was reared up.
 Exodus 40:18	And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars.
