@@ -332,13 +332,8 @@ Joshua 14:2	By lot [was] their inheritance, as the LORD commanded by the hand of
 Joshua 14:3	For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them.
 Joshua 14:4	For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell [in], with their suburbs for their cattle and for their substance.
 Joshua 14:5	As the LORD commanded Moses, so the children of Israel did, and they divided the land.
-Joshua 14:6	Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea.
-Joshua 14:7	Forty years old [was] I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as [it was] in mine heart.
-Joshua 14:8	Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the LORD my God.
-Joshua 14:9	And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the LORD my God.
-Joshua 14:10	And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while [the children of] Israel wandered in the wilderness: and now, lo, I [am] this day fourscore and five years old.
-Joshua 14:11	As yet I [am as] strong this day as [I was] in the day that Moses sent me: as my strength [was] then, even so [is] my strength now, for war, both to go out, and to come in.
-Joshua 14:12	Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims [were] there, and [that] the cities [were] great [and] fenced: if so be the LORD [will be] with me, then I shall be able to drive them out, as the LORD said.
+Joshua 14:6	Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, 
+
 Joshua 14:13	And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.
 Joshua 14:14	Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel.
 Joshua 14:15	And the name of Hebron before [was] Kirjatharba; [which Arba was] a great man among the Anakims. And the land had rest from war.
@@ -359,7 +354,8 @@ Joshua 15:14	And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman,
 Joshua 15:15	And he went up thence to the inhabitants of Debir: and the name of Debir before [was] Kirjathsepher.
 Joshua 15:16	And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 Joshua 15:17	And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
-Joshua 15:18	And it came to pass, as she came [unto him], that she moved him to ask of her father a field: and she lighted off [her] ass; and Caleb said unto her, What wouldest thou?
+Joshua 15:18	And it came to pass, as she came [unto him], that she moved him to ask of her father a field: and she lighted off [her] ass; and Caleb said unto her,
+
 Joshua 15:19	Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
 Joshua 15:20	This [is] the inheritance of the tribe of the children of Judah according to their families.
 Joshua 15:21	And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,
@@ -429,18 +425,17 @@ Joshua 17:11	And Manasseh had in Issachar and in Asher Bethshean and her towns, 
 Joshua 17:12	Yet the children of Manasseh could not drive out [the inhabitants of] those cities; but the Canaanites would dwell in that land.
 Joshua 17:13	Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out.
 Joshua 17:14	And the children of Joseph spake unto Joshua, saying, Why hast thou given me [but] one lot and one portion to inherit, seeing I [am] a great people, forasmuch as the LORD hath blessed me hitherto?
-Joshua 17:15	And Joshua answered them, If thou [be] a great people, [then] get thee up to the wood [country], and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for thee.
+Joshua 17:15	And Joshua answered them, 
+
 Joshua 17:16	And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, [both they] who [are] of Bethshean and her towns, and [they] who [are] of the valley of Jezreel.
-Joshua 17:17	And Joshua spake unto the house of Joseph, [even] to Ephraim and to Manasseh, saying, Thou [art] a great people, and hast great power: thou shalt not have one lot [only]:
-Joshua 17:18	But the mountain shall be thine; for it [is] a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, [and] though they [be] strong.
+Joshua 17:17	And Joshua spake unto the house of Joseph, [even] to Ephraim and to Manasseh, saying, 
+
 Joshua 18:1	And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
 Joshua 18:2	And there remained among the children of Israel seven tribes, which had not yet received their inheritance.
-Joshua 18:3	And Joshua said unto the children of Israel, How long [are] ye slack to go to possess the land, which the LORD God of your fathers hath given you?
-Joshua 18:4	Give out from among you three men for [each] tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come [again] to me.
-Joshua 18:5	And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.
-Joshua 18:6	Ye shall therefore describe the land [into] seven parts, and bring [the description] hither to me, that I may cast lots for you here before the LORD our God.
-Joshua 18:7	But the Levites have no part among you; for the priesthood of the LORD [is] their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them.
-Joshua 18:8	And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.
+Joshua 18:3	And Joshua said unto the children of Israel, 
+
+Joshua 18:8	And the men arose, and went away: and Joshua charged them that went to describe the land, saying, 
+
 Joshua 18:9	And the men went and passed through the land, and described it by cities into seven parts in a book, and came [again] to Joshua to the host at Shiloh.
 Joshua 18:10	And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.
 Joshua 18:11	And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.
@@ -513,11 +508,8 @@ Joshua 19:49	When they had made an end of dividing the land for inheritance by t
 Joshua 19:50	According to the word of the LORD they gave him the city which he asked, [even] Timnathserah in mount Ephraim: and he built the city, and dwelt therein.
 Joshua 19:51	These [are] the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.
 Joshua 20:1	The LORD also spake unto Joshua, saying,
-Joshua 20:2	Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:
-Joshua 20:3	That the slayer that killeth [any] person unawares [and] unwittingly may flee thither: and they shall be your refuge from the avenger of blood.
-Joshua 20:4	And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.
-Joshua 20:5	And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.
-Joshua 20:6	And he shall dwell in that city, until he stand before the congregation for judgment, [and] until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.
+
+
 Joshua 20:7	And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which [is] Hebron, in the mountain of Judah.
 Joshua 20:8	And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 Joshua 20:9	These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth [any] person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.
@@ -567,10 +559,8 @@ Joshua 21:43	And the LORD gave unto Israel all the land which he sware to give u
 Joshua 21:44	And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.
 Joshua 21:45	There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.
 Joshua 22:1	Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
-Joshua 22:2	And said unto them, Ye have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you:
-Joshua 22:3	Ye have not left your brethren these many days unto this day, but have kept the charge of the commandment of the LORD your God.
-Joshua 22:4	And now the LORD your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, [and] unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan.
-Joshua 22:5	But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
+Joshua 22:2	And said unto them, 
+
 Joshua 22:6	So Joshua blessed them, and sent them away: and they went unto their tents.
 Joshua 22:7	Now to the [one] half of the tribe of Manasseh Moses had given [possession] in Bashan: but unto the [other] half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
 Joshua 22:8	And he spake unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren.
