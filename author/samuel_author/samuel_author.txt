@@ -863,13 +863,12 @@ And she said, An old man cometh up; and he [is] covered with a mantle. And Saul 
 1 Samuel 30:17	And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled.
 1 Samuel 30:18	And David recovered all that the Amalekites had carried away: and David rescued his two wives.
 1 Samuel 30:19	And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any [thing] that they had taken to them: David recovered all.
-1 Samuel 30:20	And David took all the flocks and the herds, [which] they drave before those [other] cattle, and said, This [is] David’s spoil.
+1 Samuel 30:20	And David took all the flocks and the herds, [which] they drave before those [other] cattle, and said, 
 1 Samuel 30:21	And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that [were] with him: and when David came near to the people, he saluted them.
 1 Samuel 30:22	Then answered all the wicked men and [men] of Belial, of those that went with David, and said, Because they went not with us, we will not give them [ought] of the spoil that we have recovered, save to every man his wife and his children, that they may lead [them] away, and depart.
-1 Samuel 30:23	Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand.
-1 Samuel 30:24	For who will hearken unto you in this matter? but as his part [is] that goeth down to the battle, so [shall] his part [be] that tarrieth by the stuff: they shall part alike.
+1 Samuel 30:23	Then said David, 
 1 Samuel 30:25	And it was [so] from that day forward, that he made it a statute and an ordinance for Israel unto this day.
-1 Samuel 30:26	And when David came to Ziklag, he sent of the spoil unto the elders of Judah, [even] to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
+1 Samuel 30:26	And when David came to Ziklag, he sent of the spoil unto the elders of Judah, [even] to his friends, saying, 
 1 Samuel 30:27	To [them] which [were] in Bethel, and to [them] which [were] in south Ramoth, and to [them] which [were] in Jattir,
 1 Samuel 30:28	And to [them] which [were] in Aroer, and to [them] which [were] in Siphmoth, and to [them] which [were] in Eshtemoa,
 1 Samuel 30:29	And to [them] which [were] in Rachal, and to [them] which [were] in the cities of the Jerahmeelites, and to [them] which [were] in the cities of the Kenites,
@@ -878,7 +877,8 @@ And she said, An old man cometh up; and he [is] covered with a mantle. And Saul 
 1 Samuel 31:1	Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 1 Samuel 31:2	And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, Saul’s sons.
 1 Samuel 31:3	And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.
-1 Samuel 31:4	Then said Saul unto his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and thrust me through, and abuse me. But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it.
+1 Samuel 31:4	Then said Saul unto his armourbearer, 
+ But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it.
 1 Samuel 31:5	And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
 1 Samuel 31:6	So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.
 1 Samuel 31:7	And when the men of Israel that [were] on the other side of the valley, and [they] that [were] on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.
@@ -890,38 +890,28 @@ And she said, An old man cometh up; and he [is] covered with a mantle. And Saul 
 1 Samuel 31:13	And they took their bones, and buried [them] under a tree at Jabesh, and fasted seven days.
 2 Samuel 1:1	Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
 2 Samuel 1:2	It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and [so] it was, when he came to David, that he fell to the earth, and did obeisance.
-2 Samuel 1:3	And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
-2 Samuel 1:4	And David said unto him, How went the matter? I pray thee, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
-2 Samuel 1:5	And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?
-2 Samuel 1:6	And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him.
-2 Samuel 1:7	And when he looked behind him, he saw me, and called unto me. And I answered, Here [am] I.
-2 Samuel 1:8	And he said unto me, Who [art] thou? And I answered him, I [am] an Amalekite.
-2 Samuel 1:9	He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life [is] yet whole in me.
-2 Samuel 1:10	So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that [was] upon his head, and the bracelet that [was] on his arm, and have brought them hither unto my lord.
+2 Samuel 1:3	And David said unto him,  And he said unto him, 
+2 Samuel 1:4	And David said unto him,  And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
+2 Samuel 1:5	And David said unto the young man that told him, 
+2 Samuel 1:6	And the young man that told him said, 
+2 Samuel 1:7	And when he looked behind him, he saw me, and called unto me. And I answered,
+2 Samuel 1:8	And he said unto me,  And I answered him, 
+2 Samuel 1:9	He said unto me again, 
+2 Samuel 1:10	
 2 Samuel 1:11	Then David took hold on his clothes, and rent them; and likewise all the men that [were] with him:
 2 Samuel 1:12	And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.
-2 Samuel 1:13	And David said unto the young man that told him, Whence [art] thou? And he answered, I [am] the son of a stranger, an Amalekite.
-2 Samuel 1:14	And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD’S anointed?
-2 Samuel 1:15	And David called one of the young men, and said, Go near, [and] fall upon him. And he smote him that he died.
-2 Samuel 1:16	And David said unto him, Thy blood [be] upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD’S anointed.
+2 Samuel 1:13	And David said unto the young man that told him, And he answered, 
+2 Samuel 1:14	And David said unto him, 
+2 Samuel 1:15	And David called one of the young men, and said,  And he smote him that he died.
+2 Samuel 1:16	And David said unto him, 
 2 Samuel 1:17	And David lamented with this lamentation over Saul and over Jonathan his son:
 2 Samuel 1:18	(Also he bade them teach the children of Judah [the use of] the bow: behold, [it is] written in the book of Jasher.)
-2 Samuel 1:19	The beauty of Israel is slain upon thy high places: how are the mighty fallen!
-2 Samuel 1:20	Tell [it] not in Gath, publish [it] not in the streets of Askelon; lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.
-2 Samuel 1:21	Ye mountains of Gilboa, [let there be] no dew, neither [let there be] rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, [as though he had] not [been] anointed with oil.
-2 Samuel 1:22	From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty.
-2 Samuel 1:23	Saul and Jonathan [were] lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions.
-2 Samuel 1:24	Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with [other] delights, who put on ornaments of gold upon your apparel.
-2 Samuel 1:25	How are the mighty fallen in the midst of the battle! O Jonathan, [thou wast] slain in thine high places.
-2 Samuel 1:26	I am distressed for thee, my brother Jonathan: very pleasant hast thou been unto me: thy love to me was wonderful, passing the love of women.
-2 Samuel 1:27	How are the mighty fallen, and the weapons of war perished!
-2 Samuel 2:1	And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
+2 Samuel 1:19	
+2 Samuel 2:1	And it came to pass after this, that David inquired of the LORD, saying,  And the LORD said unto him, Go up. And David said,  And he said, Unto Hebron.
 2 Samuel 2:2	So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite.
 2 Samuel 2:3	And his men that [were] with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
 2 Samuel 2:4	And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, [That] the men of Jabeshgilead [were they] that buried Saul.
-2 Samuel 2:5	And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed [be] ye of the LORD, that ye have shewed this kindness unto your lord, [even] unto Saul, and have buried him.
-2 Samuel 2:6	And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.
-2 Samuel 2:7	Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.
+2 Samuel 2:5	And David sent messengers unto the men of Jabeshgilead, and said unto them, 
 2 Samuel 2:8	But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;
 2 Samuel 2:9	And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
 2 Samuel 2:10	Ishbosheth Saul’s son [was] forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.
